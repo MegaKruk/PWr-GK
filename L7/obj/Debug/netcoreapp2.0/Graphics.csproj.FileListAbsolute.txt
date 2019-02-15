@@ -1,0 +1,30 @@
+/Users/krystian/Desktop/Graphics/bin/Debug/netcoreapp2.0/Graphics.deps.json
+/Users/krystian/Desktop/Graphics/bin/Debug/netcoreapp2.0/Graphics.runtimeconfig.json
+/Users/krystian/Desktop/Graphics/bin/Debug/netcoreapp2.0/Graphics.runtimeconfig.dev.json
+/Users/krystian/Desktop/Graphics/bin/Debug/netcoreapp2.0/Graphics.dll
+/Users/krystian/Desktop/Graphics/bin/Debug/netcoreapp2.0/Graphics.pdb
+/Users/krystian/Desktop/Graphics/obj/Debug/netcoreapp2.0/Graphics.csproj.CoreCompileInputs.cache
+/Users/krystian/Desktop/Graphics/obj/Debug/netcoreapp2.0/Graphics.AssemblyInfoInputs.cache
+/Users/krystian/Desktop/Graphics/obj/Debug/netcoreapp2.0/Graphics.AssemblyInfo.cs
+/Users/krystian/Desktop/Graphics/obj/Debug/netcoreapp2.0/Graphics.dll
+/Users/krystian/Desktop/Graphics/obj/Debug/netcoreapp2.0/Graphics.pdb
+C:\Users\Filicz\Google Drive\Graphics\bin\Debug\netcoreapp2.0\Graphics.deps.json
+C:\Users\Filicz\Google Drive\Graphics\bin\Debug\netcoreapp2.0\Graphics.runtimeconfig.json
+C:\Users\Filicz\Google Drive\Graphics\bin\Debug\netcoreapp2.0\Graphics.runtimeconfig.dev.json
+C:\Users\Filicz\Google Drive\Graphics\bin\Debug\netcoreapp2.0\Graphics.dll
+C:\Users\Filicz\Google Drive\Graphics\bin\Debug\netcoreapp2.0\Graphics.pdb
+C:\Users\Filicz\Google Drive\Graphics\obj\Debug\netcoreapp2.0\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Filicz\Google Drive\Graphics\obj\Debug\netcoreapp2.0\Graphics.AssemblyInfoInputs.cache
+C:\Users\Filicz\Google Drive\Graphics\obj\Debug\netcoreapp2.0\Graphics.AssemblyInfo.cs
+C:\Users\Filicz\Google Drive\Graphics\obj\Debug\netcoreapp2.0\Graphics.dll
+C:\Users\Filicz\Google Drive\Graphics\obj\Debug\netcoreapp2.0\Graphics.pdb
+C:\Users\Filicz\Google Drive\GKcw7_2\bin\Debug\netcoreapp2.0\Graphics.deps.json
+C:\Users\Filicz\Google Drive\GKcw7_2\bin\Debug\netcoreapp2.0\Graphics.runtimeconfig.json
+C:\Users\Filicz\Google Drive\GKcw7_2\bin\Debug\netcoreapp2.0\Graphics.runtimeconfig.dev.json
+C:\Users\Filicz\Google Drive\GKcw7_2\bin\Debug\netcoreapp2.0\Graphics.dll
+C:\Users\Filicz\Google Drive\GKcw7_2\bin\Debug\netcoreapp2.0\Graphics.pdb
+C:\Users\Filicz\Google Drive\GKcw7_2\obj\Debug\netcoreapp2.0\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Filicz\Google Drive\GKcw7_2\obj\Debug\netcoreapp2.0\Graphics.AssemblyInfoInputs.cache
+C:\Users\Filicz\Google Drive\GKcw7_2\obj\Debug\netcoreapp2.0\Graphics.AssemblyInfo.cs
+C:\Users\Filicz\Google Drive\GKcw7_2\obj\Debug\netcoreapp2.0\Graphics.dll
+C:\Users\Filicz\Google Drive\GKcw7_2\obj\Debug\netcoreapp2.0\Graphics.pdb
